@@ -1,5 +1,11 @@
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
+## Icon Package
+
+[Iconsax Line Oval Icon](https://www.svgrepo.com/collection/iconsax-line-oval-icons/)
+
+[Iconsax Line Bold Oval Icon](https://www.svgrepo.com/collection/iconsax-bold-oval-icons/)
+
 # Getting Started
 
 > **Note**: Make sure you have completed the [Set Up Your Environment](https://reactnative.dev/docs/set-up-your-environment) guide before proceeding.
