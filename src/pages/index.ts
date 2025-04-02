@@ -1,4 +1,4 @@
-import { Home } from './home'
-import { Menu } from './menu'
+import { Home } from './Home'
+import { Menu } from './Menu'
 
 export { Home, Menu }

@@ -14,8 +14,10 @@ if linkage != nil
   use_frameworks! :linkage => linkage.to_sym
 end
 
-target 'RnBoilerplate' do
+target 'Boilerplate' do
   config = use_native_modules!
+  use_frameworks! :linkage => :static
+  use_modular_headers!
 
   use_react_native!(
     :path => config[:reactNativePath],
