@@ -1,0 +1,16 @@
+export const STORAGE_KEYS = {
+  SOUND_DATA: 'soundData',
+  PLAYING_SOUNDS: 'playingSounds',
+  PAUSED_ALL: 'pausedAll',
+  SOUND_STATES: 'soundStates',
+  LANGUAGE: 'language',
+  FAVORITES: 'favoriteSounds',
+  LAST_SELECTED_CATEGORY: 'lastSelectedCategory',
+  SLEEP_TIMER: 'sleepTimerDuration',
+  HAS_SEEN_ONBOARDING: 'hasSeenOnboarding',
+  NOTIFICATION_ENABLED: 'notificationEnabled',
+  APP_THEME: 'appTheme',
+  LAST_PLAYED_MIX: 'lastPlayedMix',
+  DOWNLOAD_CACHE: 'downloadedFiles',
+  UI_STATE: 'uiState',
+} as const

@@ -1,7 +1,8 @@
 const Routes = {
-  HOME_PAGE: 'Ana Sayfa',
-  MENU_PAGE: 'Menü',
+  HOME_PAGE: 'sounds',
+  SETTINGS_PAGE: 'settings',
   ROUTE_STACK: 'RouteStack',
+  TAB_STACK: 'TabStack',
 }
 
 export default Routes

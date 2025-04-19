@@ -41,6 +41,7 @@ const theme = {
       error: '#dd0619',
       warning: '#ffc107',
       info: '#039cb3',
+      bottomBar: '#181822',
     },
     dark: {
       primary: '#F77F00',
@@ -52,6 +53,7 @@ const theme = {
       error: '#dd0619',
       warning: '#ffc107',
       info: '#039cb3',
+      bottomBar: '#181822',
     },
   },
 }

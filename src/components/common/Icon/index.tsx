@@ -16,8 +16,13 @@ const Icon: React.FC<IconProps> = ({ name, fill = false, size = 24, color, style
   const IconComponent = Icons[iconKey as keyof typeof Icons] as React.FC<SvgProps>
 
   if (!IconComponent) {
-    console.warn(`Icon "${iconKey}" not found`)
-    return null
+    //  console.warn(`Icon "${iconKey}" not found, using fallback`)
+    const Fallback = Icons['ArrowLeft'] // örneğin: bir 'QuestionMark' ikonu tanımla
+    return (
+      <View style={style}>
+        <Fallback width={size} height={size} color={color || 'black'} />
+      </View>
+    )
   }
 
   return (
