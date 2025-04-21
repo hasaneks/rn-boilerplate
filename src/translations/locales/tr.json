@@ -1,0 +1,9 @@
+{
+  "welcome": "React Native Boilerplate'e Hoş Geldiniz",
+  "home": "Ana Sayfa",
+  "settings": "Ayarlar",
+  "language": "Dil",
+  "select_language": "Dilini seç",
+  "loading": "Yükleniyor...",
+  "goToMenu": "Menüye Git"
+}
