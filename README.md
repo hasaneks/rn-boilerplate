@@ -2,7 +2,7 @@
 
 <div align="center">
   <b>🌍 Choose Language / Dil Seçimi</b><br />
-  <a href="#english-">🇬🇧 English</a> • <a href="#türkce">🇹🇷 Türkçe</a>
+  <a href="#english-">🇬🇧 English</a> • <a href="#türkçe-">🇹🇷 Türkçe</a>
 </div>
 
 ---
