@@ -7,7 +7,7 @@
 
 ---
 
-## 🇬🇧 English {#english}
+## English 🇬🇧
 
 🚀 **A production-ready, modular and scalable React Native boilerplate.**
 
@@ -106,7 +106,7 @@ Open to PRs and issues. Let’s make it better together!
 
 ---
 
-## 🇹🇷 Türkçe {#turkce}
+## Türkçe 🇹🇷
 
 🚀 **Üretime hazır, modüler ve güçlü bir React Native başlangıç yapısı.**
 
